@@ -270,6 +270,7 @@ class Test extends React.Component {
         >
           <Animated.ScrollView
             scrollEnabled={scrollEnabled}
+            horizontal={true}
             style={[
               styles.scrollViewContainer,
               {
