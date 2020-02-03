@@ -7,9 +7,9 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^32.0.0",
+    "expo": "^36.0.0",
     "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
     "react-native-card-animated-modal": "techaware/react-native-card-animated-modal#explore",
     "react-native-snap-carousel": "^3.7.5"
   },
